@@ -12,6 +12,7 @@
 - [ProductPinion](https://aisellerindex.com/tools/productpinion/): Shopper polls and video feedback to test product ideas and listings before launch. Limitation: Tests opinions, not real sales data; extra responses cost more. Pricing: Starter $57/mo, Brand $97/mo, Agency $1,129/mo (credits included)
 - [PickFu](https://aisellerindex.com/tools/pickfu/): Fast consumer polls for comparing images, titles, packaging and product ideas. Limitation: Pay-per-response adds up for large tests; panel opinions are not purchase behavior. Pricing: From $1 per response pay-as-you-go; PickFu+ from $999/yr
 - [Threecolts](https://aisellerindex.com/tools/threecolts/): Suite of seller tools including online arbitrage sourcing and repricing. Limitation: Many separate products with separate pricing; reseller-focused. Pricing: Sourcing plans from $69/mo ($65/mo yearly); Teams $129/mo; other products priced separately
+- [ZIK Analytics](https://aisellerindex.com/tools/zik-analytics/): eBay product and competitor research. Limitation: eBay-focused. Pricing: PRO $39.90/mo, or $14/mo billed annually
 
 ## Listing Optimization
 - [ZonGuru](https://aisellerindex.com/tools/zonguru/): AI listing engineering (Helix) for Amazon. Limitation: Now listing-focused and priced per catalog size; costly for one-product sellers. Pricing: Helix $149/$299/$699/mo (monthly); ~17% less yearly
@@ -114,6 +115,24 @@
 - [MerchantSpring](https://aisellerindex.com/tools/merchantspring/): Marketplace performance analytics across 120+ channels. Limitation: Built for reporting, not execution; higher price than single-seller profit tools. Pricing: Seller $399/mo ($319/mo yearly); Vendor $699/mo ($559/mo yearly)
 - [ConnectBooks](https://aisellerindex.com/tools/connectbooks/): Syncing marketplace sales and fees into QuickBooks or Xero with profit reports. Limitation: Accounting sync, not an ads or research tool; price rises with order volume. Pricing: Gold from $149/mo, Diamond from $199/mo, Platinum from $349/mo (scales by order volume)
 - [Seller Labs](https://aisellerindex.com/tools/seller-labs/): Amazon seller tools (keywords, feedback, ads insights). Limitation: Tiers are based on tool-call allowance, which takes getting used to. Pricing: Paid tiers include $39/mo for 101–400 tool calls per month
+- [BeProfit](https://aisellerindex.com/tools/beprofit/): Shopify profit tracking and P&L. Limitation: Order caps per plan. Pricing: Basic $49, Pro $99, Ultimate $149 per month (Shopify App Store listing)
+- [TrueProfit](https://aisellerindex.com/tools/trueprofit/): Real-time Shopify net-profit dashboard. Limitation: Per-extra-order fees on top of the base price. Pricing: Basic $35/mo (300 orders, $0.30 per extra), Advanced $60/mo and up
+- [Lifetimely](https://aisellerindex.com/tools/lifetimely/): LTV, cohort and profit analytics for Shopify. Limitation: Amazon data is a $75/mo add-on. Pricing: S $49, M $149, L $299 per month by order volume
+- [Lebesgue](https://aisellerindex.com/tools/lebesgue/): AI marketing and profit analytics for Shopify. Limitation: Attribution pixel is expensive ($749/mo). Pricing: Free; Ultimate $79/mo; Ultimate AI $149/mo
+- [GorillaROI](https://aisellerindex.com/tools/gorillaroi/): Amazon data in Google Sheets for custom P&L. Limitation: You build your own reports in Sheets. Pricing: Basic $99, Pro $199, Mega $399 per month
+- [Peel Insights](https://aisellerindex.com/tools/peel/): Automated retention and cohort analytics for Shopify. Limitation: Not for small stores. Pricing: Core from $179/mo (annual) or $199/mo; Essentials from $449/mo
+- [Elevar](https://aisellerindex.com/tools/elevar/): Server-side tracking and conversion data for Shopify. Limitation: Expensive for small stores. Pricing: Core $225/mo, Advanced $650/mo, Premium $1,250/mo
+- [Metorik](https://aisellerindex.com/tools/metorik/): Reports and customer segments for WooCommerce and Shopify. Limitation: Price scales with combined order volume. Pricing: Starter plan $25/mo (all features)
+- [Shopkeeper](https://aisellerindex.com/tools/shopkeeper/): Amazon profit and accounting reports. Limitation: Plans capped by monthly order count. Pricing: Starter $20, Intermediate $45, Master $90, Superseller $250 per month
+- [Sellerise](https://aisellerindex.com/tools/sellerise/): Amazon profit analytics and seller tools. Limitation: Starter covers one seller account. Pricing: Starter $19.99/mo
+- [A2X](https://aisellerindex.com/tools/a2x/): Accurate accounting entries from Amazon/Shopify payouts. Limitation: Bookkeeping tool, not an analytics dashboard. Pricing: From US$29/mo per channel (some channels from $79/mo)
+- [Taxomate](https://aisellerindex.com/tools/taxomate/): Low-cost Amazon/e-com payout bookkeeping. Limitation: Fewer integrations than A2X. Pricing: Starter $12/mo billed annually ($140/yr)
+- [Webgility](https://aisellerindex.com/tools/webgility/): E-commerce accounting automation into QuickBooks. Limitation: Extra orders cost $10/mo per 500. Pricing: $69, $129, $299 per month billed annually
+- [Glew](https://aisellerindex.com/tools/glew/): Multichannel e-commerce BI. Limitation: Price not shown on pricing page. Pricing: not verified
+- [Polar Analytics](https://aisellerindex.com/tools/polar-analytics/): Shopify BI and attribution. Limitation: Price not shown on pricing page. Pricing: not verified
+- [DataHawk](https://aisellerindex.com/tools/datahawk/): Amazon and Walmart analytics. Limitation: Custom plans only. Pricing: not verified
+- [Northbeam](https://aisellerindex.com/tools/northbeam/): Multi-touch ad attribution. Limitation: Quote-based; aimed at big spenders. Pricing: not verified
+- [Putler](https://aisellerindex.com/tools/putler/): Combined sales analytics across payment and store platforms. Limitation: Price depends on revenue; not clearly listed. Pricing: not verified
 
 ## Reviews & Feedback
 - [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: Amazon limits what requests can say. Pricing: From $20/mo ($16/mo yearly); Basic $40/mo
