@@ -4,7 +4,7 @@
 ## Product Research
 - [Jungle Scout](https://aisellerindex.com/tools/jungle-scout/): Amazon market intelligence and product validation. Limitation: Estimates are modeled, not actual sales. Pricing: From $49/mo
 - [Helium 10](https://aisellerindex.com/tools/helium-10/): All-in-one Amazon suite (research, keywords, listings, PPC). Limitation: Broad but deep tiers get pricey; learning curve. Pricing: Platinum $129/mo ($99/mo billed yearly); Diamond/Enterprise higher
-- [SmartScout](https://aisellerindex.com/tools/smartscout/): Brand/seller-level market mapping and wholesale sourcing. Limitation: Less useful for private-label keyword work. Pricing: $29, $49, $119, $299/mo tiers
+- [SmartScout](https://aisellerindex.com/tools/smartscout/): Brand/seller-level market mapping and wholesale sourcing. Limitation: Less useful for private-label keyword work. Pricing: $49/$119/$299 monthly; $29/$99/$239 per month billed yearly
 - [Viral Launch](https://aisellerindex.com/tools/viral-launch/): Product discovery plus keyword research. Limitation: Overlaps heavily with Jungle Scout/Helium 10. Pricing: Not yet verified
 - [SellerSprite](https://aisellerindex.com/tools/sellersprite/): Low-cost keyword and product research across marketplaces. Limitation: UI/translation rough in places. Pricing: Not yet verified
 - [Keepa](https://aisellerindex.com/tools/keepa/): Price/BSR history tracking. Limitation: Not AI-driven; data-heavy charts. Pricing: Not yet verified
@@ -63,3 +63,10 @@
 
 ## Summary
 - [Full plain-language summary](https://aisellerindex.com/summary/)
+
+## Comparisons
+- [sellerboard vs Helium 10 Profits (2026 prices)](https://aisellerindex.com/compare/sellerboard-vs-helium-10-profits/): sellerboard vs Helium 10 Profits: yearly cost $179 vs $3,348, plan wording and who each fits. Prices checked Oct 14, 2026.
+- [sellerboard alternatives (prices checked Oct 2026)](https://aisellerindex.com/alternatives/sellerboard/): sellerboard alternatives with prices read from each vendor's own page on Oct 14, 2026: Shopkeeper, Sellerise, SellerLegend, Helium 10 Diamond.
+- [Helium 10 vs SmartScout (2026 prices)](https://aisellerindex.com/compare/helium-10-vs-smartscout/): Helium 10 vs SmartScout: keyword suite vs brand and wholesale mapping. Monthly and yearly prices checked Oct 14, 2026.
+- [SmartScout alternatives by job (Oct 2026 prices)](https://aisellerindex.com/alternatives/smartscout/): SmartScout alternatives for wholesale, OA and private label: SellerAmp SAS, Seller 365, Jungle Scout, Helium 10. Prices checked Oct 14, 2026.
+- [Jungle Scout alternatives under $50 (prices checked Oct 14, 2026)](https://aisellerindex.com/alternatives/jungle-scout-under-50/): Jungle Scout alternatives under $50/mo with every price read from the vendor's page on Oct 14, 2026: SmartScout, Datadive, SellerSprite, Helium 10 Free, SellerAmp.
