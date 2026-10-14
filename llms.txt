@@ -39,6 +39,11 @@
 - [Inventory Planner](https://aisellerindex.com/tools/inventory-planner/): Demand forecasting and POs for Shopify/multi-channel. Limitation: Now part of Sage; pricing by revenue. Pricing: Not yet verified
 - [Prediko](https://aisellerindex.com/tools/prediko/): AI demand forecasting for Shopify. Limitation: Shopify-only focus. Pricing: Not yet verified
 - [SoStocked](https://aisellerindex.com/tools/sostocked/): Amazon inventory forecasting and reorder planning. Limitation: Amazon-centric; pricing not published on site. Pricing: Not yet verified
+- [Cin7](https://aisellerindex.com/tools/cin7/): Inventory and order management across channels and warehouses. Limitation: Costly for small sellers. Pricing: From $349/mo; $599/mo and $1,199/mo tiers (USD, excl. tax)
+- [Fabrikator](https://aisellerindex.com/tools/fabrikator/): Shopify inventory planning, purchase orders and forecasting. Limitation: Shopify-focused; price scales with revenue. Pricing: From $79/mo (billed yearly, $0–500K revenue); revenue-based tiers
+- [Ordoro](https://aisellerindex.com/tools/ordoro/): Inventory sync, dropshipping and shipping labels. Limitation: Inventory features sit on separate, pricier plans than shipping. Pricing: Shipping free/$59/$149 per month; inventory from $349/mo; dropshipping from $299/mo
+- [StockTrim](https://aisellerindex.com/tools/stocktrim/): Demand forecasting and reorder suggestions. Limitation: Pricing depends on revenue band; check the calculator. Pricing: not verified
+- [Flieber](https://aisellerindex.com/tools/flieber/): Inventory planning for omnichannel and Amazon brands. Limitation: Price not published on its pricing page. Pricing: not verified
 
 ## Customer Service
 - [Gorgias](https://aisellerindex.com/tools/gorgias/): E-com helpdesk with AI agent and Shopify integration. Limitation: Ticket-based pricing adds up. Pricing: Starter $40/mo; higher tiers from $77/mo yearly; AI Agent add-on
@@ -46,6 +51,15 @@
 - [Yuma AI](https://aisellerindex.com/tools/yuma-ai/): Autonomous AI support agent on top of helpdesks. Limitation: Needs an existing helpdesk. Pricing: From $14,400/yr (~$1.20 per resolution)
 - [Zipchat](https://aisellerindex.com/tools/zipchat/): AI sales/support chat for Shopify. Limitation: Smaller vendor. Pricing: From $64/mo (billed yearly)
 - [eDesk](https://aisellerindex.com/tools/edesk/): Marketplace-native helpdesk (Amazon, eBay, Shopify). Limitation: Less suited to pure DTC. Pricing: From $39/agent/mo yearly ($49 monthly); AI agent $0.99 per outcome
+- [Re:amaze](https://aisellerindex.com/tools/reamaze/): Shared inbox + live chat for Shopify stores. Limitation: Per-seat pricing adds up; AI resolutions beyond the included quota cost extra. Pricing: Basic $29, Pro $49, Plus $69 per team member/mo (about 10% less billed annually); AI agent $0.85 per extra resolution
+- [Richpanel](https://aisellerindex.com/tools/richpanel/): Self-service order tracking and returns plus helpdesk. Limitation: Pricing is split across order-volume and per-user plans, so total cost takes some working out. Pricing: Self-service: free up to 50 orders/mo, $50/mo Starter, $600/mo Pro; helpdesk: free, $29 or $99 per user/mo
+- [Zendesk](https://aisellerindex.com/tools/zendesk/): Full-scale ticketing across email, chat and phone. Limitation: Heavy for a solo seller; AI Copilot is an extra $50/agent/mo. Pricing: From $19/agent/mo (Support Team, billed yearly); Suite $55 and $115/agent/mo billed yearly
+- [Freshdesk](https://aisellerindex.com/tools/freshdesk/): Affordable ticketing with an AI agent add-on. Limitation: Not e-commerce-specific; AI agent sessions are billed separately ($49 per 100). Pricing: $19 and $55 per agent/mo billed annually; Freddy AI Copilot $29/agent/mo
+- [Help Scout](https://aisellerindex.com/tools/help-scout/): Simple, email-first shared inbox. Limitation: Fewer e-com order integrations than Gorgias or Richpanel; AI Answers billed per resolution. Pricing: Standard $25, Plus $45, Pro $75 per user/mo; AI Answers $0.75 per resolution
+- [Intercom](https://aisellerindex.com/tools/intercom/): AI agent (Fin) plus helpdesk and in-app chat. Limitation: Per-outcome AI charges are hard to predict; built for SaaS more than e-com. Pricing: Helpdesk $19, $85, $132 per seat/mo; Fin AI Agent $0.99 per outcome
+- [Siena AI](https://aisellerindex.com/tools/siena-ai/): AI agent that handles e-com support tickets end to end. Limitation: $750/mo platform fee before any tickets — not for small sellers. Pricing: $750/mo platform fee plus $0.90 per automated ticket
+- [Chatbase](https://aisellerindex.com/tools/chatbase/): Build a custom AI chatbot trained on your store's content. Limitation: General-purpose; you set up and maintain the training content yourself. Pricing: Hobby $40/mo ($32 billed yearly); Standard $150/mo ($120 billed yearly)
+- [Kustomer](https://aisellerindex.com/tools/kustomer/): CRM-style helpdesk with AI for high-volume brands. Limitation: Aimed at large teams; price not published on its pricing page. Pricing: not verified
 
 ## Image & Creative
 - [Pebblely](https://aisellerindex.com/tools/pebblely/): AI product lifestyle backgrounds. Limitation: Results vary; check Amazon image rules. Pricing: Lite $9, Basic $19, Pro $39/mo
@@ -55,6 +69,11 @@
 - [Canva](https://aisellerindex.com/tools/canva/): Infographics, A+ content, ads with Magic AI tools. Limitation: Generic templates look generic. Pricing: Not yet verified
 - [Pixii](https://aisellerindex.com/tools/pixii/): AI-generated Amazon listing images, A+ content and product videos. Limitation: Credit-based; paid plans start well above simple photo editors, and AI visuals still need a human check for accuracy. Pricing: Free trial (210 credits); Growth $249/mo, Scale $749/mo billed monthly; Enterprise custom
 - [Kreator.ai](https://aisellerindex.com/tools/kreator-ai/): Turning product photos into ad creative (images and video). Limitation: Ad-creative focus rather than Amazon listing images; output still needs review. Pricing: Starter $99/mo, Growth $299/mo, Scale $599/mo billed monthly
+- [Pixelcut](https://aisellerindex.com/tools/pixelcut/): Quick background removal and AI product photos. Limitation: Credit-based; heavy batch work needs Business plan. Pricing: Free; Pro $10/mo ($8 yearly); Business $30/mo ($24 yearly)
+- [Picsart](https://aisellerindex.com/tools/picsart/): All-round AI photo and video editor. Limitation: General creative tool, not built for marketplace image rules. Pricing: Pro $15/mo ($10.50 billed yearly); higher tier $47/mo ($37.50 yearly, per seat)
+- [Creatopy](https://aisellerindex.com/tools/creatopy/): Ad creative design and resizing at scale. Limitation: More for ad teams than single-listing image work. Pricing: $29/mo (Create Pro), $49/seat/mo (Team), $79/mo (Ultra), billed annually
+- [Mokker AI](https://aisellerindex.com/tools/mokker/): AI product photo backgrounds from templates. Limitation: AI scenes can look generic; check against Amazon main-image rules. Pricing: Starter $13/mo; Team $29/user/mo; Organization $83.25/user/mo
+- [remove.bg](https://aisellerindex.com/tools/remove-bg/): One-click background removal, with API. Limitation: Does one job only; credit pricing. Pricing: not verified
 
 ## Multi-channel & Ops
 - [Feedonomics](https://aisellerindex.com/tools/feedonomics/): Managed product feed optimization across channels. Limitation: Enterprise pricing. Pricing: Not yet verified
@@ -82,6 +101,11 @@
 - [Yotpo](https://aisellerindex.com/tools/yotpo/): Reviews, UGC and loyalty for Shopify. Limitation: Gets expensive. Pricing: Reviews free plan, paid from $15/mo; bundles $89–$169/mo
 - [Judge.me](https://aisellerindex.com/tools/judge-me/): Affordable Shopify product reviews. Limitation: Less advanced AI than premium tools. Pricing: Free; Awesome $15/mo
 - [Okendo](https://aisellerindex.com/tools/okendo/): Reviews/UGC/surveys for Shopify Plus-type brands. Limitation: Premium pricing. Pricing: Not yet verified
+- [Stamped](https://aisellerindex.com/tools/stamped/): Reviews plus loyalty and retention for Shopify. Limitation: Expensive entry point for small stores. Pricing: Reviews $199/mo; plans start at $199/mo per product, $798/mo multi-product
+- [Junip](https://aisellerindex.com/tools/junip/): Photo/video product reviews for Shopify. Limitation: Shopify-focused; advanced AI features only on the $299 plan. Pricing: Free; Core $29, Growth $79, Premium $299 per month
+- [Fera](https://aisellerindex.com/tools/fera/): Low-cost reviews app with AI review replies. Limitation: Price tiers rise quickly with order volume. Pricing: From $9/mo ($7 billed yearly) up to $999/mo by tier
+- [Trustpilot](https://aisellerindex.com/tools/trustpilot/): Company reviews on a widely recognized third-party site. Limitation: Paid plans are pricey per domain; not a product-review widget first. Pricing: Free plan; Starter from $99, Plus from $319, Premium from $799 per month per domain (billed annually)
+- [Loox](https://aisellerindex.com/tools/loox/): Photo and video reviews for Shopify. Limitation: Shopify only; order-based pricing grows with volume. Pricing: From $49.99/mo (300 orders, +$50 per extra 300); Unlimited $299.99/mo (Shopify App Store listing)
 
 ## Summary
 - [Full plain-language summary](https://aisellerindex.com/summary/)
