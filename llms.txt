@@ -22,6 +22,13 @@
 - [Copy.ai](https://aisellerindex.com/tools/copy-ai/): Go-to-market AI workflows for sales and marketing teams. Limitation: Repositioned as GTM platform; not marketplace-aware, overkill for listings. Pricing: From $29/mo ($24/mo yearly); enterprise ~$1,000/mo
 - [Superfuel](https://aisellerindex.com/tools/superfuel/): AI agent that writes Amazon listings and measures the results. Limitation: Priced by product count; generated copy still needs a compliance check. Pricing: Free trial (5 products); Starter $49/mo (10 products); Growth $199/mo (40 products)
 - [Optiwise.ai](https://aisellerindex.com/tools/optiwise/): Walmart listing and ad optimization. Limitation: Walmart-focused; little value for Amazon-only sellers. Pricing: Free tier; paid 3P plans $249–$4,999/mo by revenue and SKU count
+- [Writesonic](https://aisellerindex.com/tools/writesonic/): AI content and SEO writing. Limitation: Not Amazon-listing specific; pricey higher tiers. Pricing: Starter $79, Basic $199, Growth $399 per month (billed annually)
+- [Rytr](https://aisellerindex.com/tools/rytr/): Cheap AI writer for descriptions. Limitation: Generic AI copy; needs editing and keyword research elsewhere. Pricing: Free; Unlimited $7.50/mo; Premium $24.16/mo
+- [Describely](https://aisellerindex.com/tools/describely/): Bulk AI product descriptions and data enrichment. Limitation: Pay-per-product adds up for big catalogs. Pricing: $0.75 per product (up to 500), no subscription
+- [SEO Booster (SEOAnt)](https://aisellerindex.com/tools/seo-booster/): Shopify SEO audits and fixes. Limitation: Shopify only. Pricing: Premium $39/mo, Enterprise $99/mo
+- [Avada SEO Suite](https://aisellerindex.com/tools/avada-seo/): Shopify SEO, structured data and image alt text. Limitation: Shopify only. Pricing: Pro $34.95/mo, Enterprise $99/mo
+- [Plug in SEO](https://aisellerindex.com/tools/plug-in-seo/): SEO problem scanner for Shopify. Limitation: Shopify only. Pricing: Lite $29.99, Standard $49.99, Premium $79.99 per month
+- [StoreSEO](https://aisellerindex.com/tools/storeseo/): AI SEO for Shopify products. Limitation: Product limits per plan. Pricing: Lite $14.99, Essential $39.99, Advanced $249.99 per month
 
 ## PPC & Ads
 - [Perpetua](https://aisellerindex.com/tools/perpetua/): Goal-based Amazon/Walmart ad automation. Limitation: Less granular manual control. Pricing: From $695/mo; Growth adds % of ad spend
@@ -86,6 +93,7 @@
 - [Creatopy](https://aisellerindex.com/tools/creatopy/): Ad creative design and resizing at scale. Limitation: More for ad teams than single-listing image work. Pricing: $29/mo (Create Pro), $49/seat/mo (Team), $79/mo (Ultra), billed annually
 - [Mokker AI](https://aisellerindex.com/tools/mokker/): AI product photo backgrounds from templates. Limitation: AI scenes can look generic; check against Amazon main-image rules. Pricing: Starter $13/mo; Team $29/user/mo; Organization $83.25/user/mo
 - [remove.bg](https://aisellerindex.com/tools/remove-bg/): One-click background removal, with API. Limitation: Does one job only; credit pricing. Pricing: not verified
+- [TinyIMG](https://aisellerindex.com/tools/tinyimg/): Image compression and SEO for Shopify. Limitation: Shopify-focused. Pricing: Beginner $14, Advanced $23, Expert $49 per month
 
 ## Multi-channel & Ops
 - [Feedonomics](https://aisellerindex.com/tools/feedonomics/): Managed product feed optimization across channels. Limitation: Enterprise pricing. Pricing: Not yet verified
@@ -105,6 +113,11 @@
 - [Repricer.com](https://aisellerindex.com/tools/repricer-com/): Amazon repricing with Buy Box strategies. Limitation: Several add-ons are priced separately in euros. Pricing: $99, $299, $499 per month base plans
 - [Alpha Repricer](https://aisellerindex.com/tools/alpha-repricer/): Budget Amazon repricer. Limitation: Lower tiers cap SKUs and revenue. Pricing: Starter $29/mo, Bronze $40/mo, Silver $60/mo and up
 - [Boxem](https://aisellerindex.com/tools/boxem/): FBA shipment prep, labeling and shipping. Limitation: Mostly useful for FBA prep workflows. Pricing: From $49.99/mo ($38/mo billed annually); higher plan $69.99/mo
+- [DataFeedWatch](https://aisellerindex.com/tools/datafeedwatch/): Product feed management for Google Shopping and marketplaces. Limitation: Costs more than Shopify feed apps. Pricing: Shop $64, Merchant $84, Agency $239 per month
+- [GoDataFeed](https://aisellerindex.com/tools/godatafeed/): Feed management for shopping channels and marketplaces. Limitation: Pricing depends on SKUs and channels. Pricing: Plus plan $99/mo recommended at 1,000 SKUs; +$5 per 1,000 SKUs
+- [Simprosys Google Shopping Feed](https://aisellerindex.com/tools/simprosys/): Cheap Google Shopping feeds for Shopify. Limitation: Shopify only; add-ons billed separately. Pricing: From $4.99/mo (up to 500 products)
+- [Listing Mirror](https://aisellerindex.com/tools/listing-mirror/): List and sync inventory across marketplaces. Limitation: Price not shown on pricing page. Pricing: not verified
+- [RepricerExpress](https://aisellerindex.com/tools/repricerexpress/): Amazon and eBay repricing. Limitation: Price not shown on pricing page. Pricing: not verified
 
 ## Analytics & Profit
 - [sellerboard](https://aisellerindex.com/tools/sellerboard/): Accurate Amazon profit tracking incl. fees/PPC/COGS. Limitation: Amazon-focused; UI basic. Pricing: From $15/mo yearly ($19 monthly)
