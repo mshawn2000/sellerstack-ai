@@ -2,64 +2,64 @@
 > Independent directory of AI tools for Amazon FBA, Shopify and e-commerce sellers with honest verdicts.
 
 ## Product Research
-- [Jungle Scout](https://mshawn2000.github.io/sellerstack-ai/tools/jungle-scout/): Amazon market intelligence and product validation. Limitation: Estimates are modeled, not actual sales
-- [Helium 10](https://mshawn2000.github.io/sellerstack-ai/tools/helium-10/): All-in-one Amazon suite (research, keywords, listings, PPC). Limitation: Broad but deep tiers get pricey; learning curve
-- [SmartScout](https://mshawn2000.github.io/sellerstack-ai/tools/smartscout/): Brand/seller-level market mapping and wholesale sourcing. Limitation: Less useful for private-label keyword work
-- [Viral Launch](https://mshawn2000.github.io/sellerstack-ai/tools/viral-launch/): Product discovery plus keyword research. Limitation: Overlaps heavily with Jungle Scout/Helium 10
-- [SellerSprite](https://mshawn2000.github.io/sellerstack-ai/tools/sellersprite/): Low-cost keyword and product research across marketplaces. Limitation: UI/translation rough in places
-- [Keepa](https://mshawn2000.github.io/sellerstack-ai/tools/keepa/): Price/BSR history tracking. Limitation: Not AI-driven; data-heavy charts
-- [SellerApp](https://mshawn2000.github.io/sellerstack-ai/tools/sellerapp/): Research plus PPC automation in one. Limitation: Jack of all trades
+- [Jungle Scout](https://mshawn2000.github.io/sellerstack-ai/tools/jungle-scout/): Amazon market intelligence and product validation. Limitation: Estimates are modeled, not actual sales. Pricing: From $49/mo
+- [Helium 10](https://mshawn2000.github.io/sellerstack-ai/tools/helium-10/): All-in-one Amazon suite (research, keywords, listings, PPC). Limitation: Broad but deep tiers get pricey; learning curve. Pricing: Platinum $129/mo ($99/mo billed yearly); Diamond/Enterprise higher
+- [SmartScout](https://mshawn2000.github.io/sellerstack-ai/tools/smartscout/): Brand/seller-level market mapping and wholesale sourcing. Limitation: Less useful for private-label keyword work. Pricing: $29, $49, $119, $299/mo tiers
+- [Viral Launch](https://mshawn2000.github.io/sellerstack-ai/tools/viral-launch/): Product discovery plus keyword research. Limitation: Overlaps heavily with Jungle Scout/Helium 10. Pricing: Not yet verified
+- [SellerSprite](https://mshawn2000.github.io/sellerstack-ai/tools/sellersprite/): Low-cost keyword and product research across marketplaces. Limitation: UI/translation rough in places. Pricing: Not yet verified
+- [Keepa](https://mshawn2000.github.io/sellerstack-ai/tools/keepa/): Price/BSR history tracking. Limitation: Not AI-driven; data-heavy charts. Pricing: Not yet verified
+- [SellerApp](https://mshawn2000.github.io/sellerstack-ai/tools/sellerapp/): Research plus PPC automation in one. Limitation: Jack of all trades. Pricing: Not yet verified
 
 ## Listing Optimization
-- [ZonGuru](https://mshawn2000.github.io/sellerstack-ai/tools/zonguru/): AI listing engineering (Helix) for Amazon. Limitation: Now listing-focused and priced per catalog size; costly for one-product sellers
-- [Datadive](https://mshawn2000.github.io/sellerstack-ai/tools/datadive/): Keyword ranking juice and listing optimization from competitor data. Limitation: Analytical; not for casual users
-- [Helium 10 Listing Builder](https://mshawn2000.github.io/sellerstack-ai/tools/helium-10-listing-builder/): AI listing copy with keyword coverage scoring. Limitation: Requires Helium 10 subscription
-- [Jasper](https://mshawn2000.github.io/sellerstack-ai/tools/jasper/): Brand-voice copy for product pages and ads. Limitation: Not Amazon-specific; needs keyword input from another tool
-- [Copy.ai](https://mshawn2000.github.io/sellerstack-ai/tools/copy-ai/): Go-to-market AI workflows for sales and marketing teams. Limitation: Repositioned as GTM platform; not marketplace-aware, overkill for listings
+- [ZonGuru](https://mshawn2000.github.io/sellerstack-ai/tools/zonguru/): AI listing engineering (Helix) for Amazon. Limitation: Now listing-focused and priced per catalog size; costly for one-product sellers. Pricing: Helix $149/$299/$699/mo (monthly); ~17% less yearly
+- [Datadive](https://mshawn2000.github.io/sellerstack-ai/tools/datadive/): Keyword ranking juice and listing optimization from competitor data. Limitation: Analytical; not for casual users. Pricing: $39/mo (Starter, monthly), $124/mo (yearly) and $408/mo Enterprise (yearly); see page
+- [Helium 10 Listing Builder](https://mshawn2000.github.io/sellerstack-ai/tools/helium-10-listing-builder/): AI listing copy with keyword coverage scoring. Limitation: Requires Helium 10 subscription. Pricing: Included in Helium 10 plans (Platinum $129/mo)
+- [Jasper](https://mshawn2000.github.io/sellerstack-ai/tools/jasper/): Brand-voice copy for product pages and ads. Limitation: Not Amazon-specific; needs keyword input from another tool. Pricing: $59–$69/mo per seat
+- [Copy.ai](https://mshawn2000.github.io/sellerstack-ai/tools/copy-ai/): Go-to-market AI workflows for sales and marketing teams. Limitation: Repositioned as GTM platform; not marketplace-aware, overkill for listings. Pricing: From $29/mo ($24/mo yearly); enterprise ~$1,000/mo
 
 ## PPC & Ads
-- [Perpetua](https://mshawn2000.github.io/sellerstack-ai/tools/perpetua/): Goal-based Amazon/Walmart ad automation. Limitation: Less granular manual control
-- [Teikametrics](https://mshawn2000.github.io/sellerstack-ai/tools/teikametrics/): AI bid optimization tied to inventory/profit. Limitation: Pricing scales with ad spend
-- [Ad Badger](https://mshawn2000.github.io/sellerstack-ai/tools/ad-badger/): Rules-based Amazon PPC bid automation. Limitation: Older UI; less AI than rivals
-- [Quartile](https://mshawn2000.github.io/sellerstack-ai/tools/quartile/): Managed + AI ad optimization across retail channels. Limitation: Enterprise-oriented
-- [Pacvue](https://mshawn2000.github.io/sellerstack-ai/tools/pacvue/): Enterprise retail media management. Limitation: Overkill and costly for small sellers
-- [Scale Insights](https://mshawn2000.github.io/sellerstack-ai/tools/scale-insights/): Template-based Amazon PPC automation. Limitation: Setup takes effort
+- [Perpetua](https://mshawn2000.github.io/sellerstack-ai/tools/perpetua/): Goal-based Amazon/Walmart ad automation. Limitation: Less granular manual control. Pricing: From $695/mo; Growth adds % of ad spend
+- [Teikametrics](https://mshawn2000.github.io/sellerstack-ai/tools/teikametrics/): AI bid optimization tied to inventory/profit. Limitation: Pricing scales with ad spend. Pricing: Essentials $149/mo yearly or $179/mo monthly (up to $10K ad spend); higher tiers custom
+- [Ad Badger](https://mshawn2000.github.io/sellerstack-ai/tools/ad-badger/): Rules-based Amazon PPC bid automation. Limitation: Older UI; less AI than rivals. Pricing: Not yet verified (pricing page shows ad-spend calculator only)
+- [Quartile](https://mshawn2000.github.io/sellerstack-ai/tools/quartile/): Managed + AI ad optimization across retail channels. Limitation: Enterprise-oriented. Pricing: Not yet verified
+- [Pacvue](https://mshawn2000.github.io/sellerstack-ai/tools/pacvue/): Enterprise retail media management. Limitation: Overkill and costly for small sellers. Pricing: Not yet verified
+- [Scale Insights](https://mshawn2000.github.io/sellerstack-ai/tools/scale-insights/): Template-based Amazon PPC automation. Limitation: Setup takes effort. Pricing: Not yet verified
 
 ## Inventory & Forecasting
-- [Inventory Planner](https://mshawn2000.github.io/sellerstack-ai/tools/inventory-planner/): Demand forecasting and POs for Shopify/multi-channel. Limitation: Now part of Sage; pricing by revenue
-- [Prediko](https://mshawn2000.github.io/sellerstack-ai/tools/prediko/): AI demand forecasting for Shopify. Limitation: Shopify-only focus
-- [SoStocked](https://mshawn2000.github.io/sellerstack-ai/tools/sostocked/): Amazon inventory forecasting and reorder planning. Limitation: Amazon-centric; pricing not published on site
+- [Inventory Planner](https://mshawn2000.github.io/sellerstack-ai/tools/inventory-planner/): Demand forecasting and POs for Shopify/multi-channel. Limitation: Now part of Sage; pricing by revenue. Pricing: Not yet verified
+- [Prediko](https://mshawn2000.github.io/sellerstack-ai/tools/prediko/): AI demand forecasting for Shopify. Limitation: Shopify-only focus. Pricing: Not yet verified
+- [SoStocked](https://mshawn2000.github.io/sellerstack-ai/tools/sostocked/): Amazon inventory forecasting and reorder planning. Limitation: Amazon-centric; pricing not published on site. Pricing: Not yet verified
 
 ## Customer Service
-- [Gorgias](https://mshawn2000.github.io/sellerstack-ai/tools/gorgias/): E-com helpdesk with AI agent and Shopify integration. Limitation: Ticket-based pricing adds up
-- [Tidio](https://mshawn2000.github.io/sellerstack-ai/tools/tidio/): Chat widget plus Lyro AI agent. Limitation: AI usage billed separately
-- [Yuma AI](https://mshawn2000.github.io/sellerstack-ai/tools/yuma-ai/): Autonomous AI support agent on top of helpdesks. Limitation: Needs an existing helpdesk
-- [Zipchat](https://mshawn2000.github.io/sellerstack-ai/tools/zipchat/): AI sales/support chat for Shopify. Limitation: Smaller vendor
-- [eDesk](https://mshawn2000.github.io/sellerstack-ai/tools/edesk/): Marketplace-native helpdesk (Amazon, eBay, Shopify). Limitation: Less suited to pure DTC
+- [Gorgias](https://mshawn2000.github.io/sellerstack-ai/tools/gorgias/): E-com helpdesk with AI agent and Shopify integration. Limitation: Ticket-based pricing adds up. Pricing: Starter $40/mo; higher tiers from $77/mo yearly; AI Agent add-on
+- [Tidio](https://mshawn2000.github.io/sellerstack-ai/tools/tidio/): Chat widget plus Lyro AI agent. Limitation: AI usage billed separately. Pricing: Free; paid $24.17–$49.17/mo (annual), AI add-on extra
+- [Yuma AI](https://mshawn2000.github.io/sellerstack-ai/tools/yuma-ai/): Autonomous AI support agent on top of helpdesks. Limitation: Needs an existing helpdesk. Pricing: From $14,400/yr (~$1.20 per resolution)
+- [Zipchat](https://mshawn2000.github.io/sellerstack-ai/tools/zipchat/): AI sales/support chat for Shopify. Limitation: Smaller vendor. Pricing: From $64/mo (billed yearly)
+- [eDesk](https://mshawn2000.github.io/sellerstack-ai/tools/edesk/): Marketplace-native helpdesk (Amazon, eBay, Shopify). Limitation: Less suited to pure DTC. Pricing: From $39/agent/mo yearly ($49 monthly); AI agent $0.99 per outcome
 
 ## Image & Creative
-- [Pebblely](https://mshawn2000.github.io/sellerstack-ai/tools/pebblely/): AI product lifestyle backgrounds. Limitation: Results vary; check Amazon image rules
-- [Photoroom](https://mshawn2000.github.io/sellerstack-ai/tools/photoroom/): Background removal and batch product photos. Limitation: Generated scenes still need review
-- [Flair.ai](https://mshawn2000.github.io/sellerstack-ai/tools/flair-ai/): AI product photoshoots with brand control. Limitation: Learning curve for best results
-- [Claid.ai](https://mshawn2000.github.io/sellerstack-ai/tools/claid-ai/): Image enhancement/standardization at catalog scale. Limitation: API-oriented
-- [Canva](https://mshawn2000.github.io/sellerstack-ai/tools/canva/): Infographics, A+ content, ads with Magic AI tools. Limitation: Generic templates look generic
+- [Pebblely](https://mshawn2000.github.io/sellerstack-ai/tools/pebblely/): AI product lifestyle backgrounds. Limitation: Results vary; check Amazon image rules. Pricing: Lite $9, Basic $19, Pro $39/mo
+- [Photoroom](https://mshawn2000.github.io/sellerstack-ai/tools/photoroom/): Background removal and batch product photos. Limitation: Generated scenes still need review. Pricing: Pro $7.50/mo, Max $20.99/mo, Ultra $82.50/mo (billed yearly)
+- [Flair.ai](https://mshawn2000.github.io/sellerstack-ai/tools/flair-ai/): AI product photoshoots with brand control. Limitation: Learning curve for best results. Pricing: Not yet verified
+- [Claid.ai](https://mshawn2000.github.io/sellerstack-ai/tools/claid-ai/): Image enhancement/standardization at catalog scale. Limitation: API-oriented. Pricing: Not yet verified
+- [Canva](https://mshawn2000.github.io/sellerstack-ai/tools/canva/): Infographics, A+ content, ads with Magic AI tools. Limitation: Generic templates look generic. Pricing: Not yet verified
 
 ## Multi-channel & Ops
-- [Feedonomics](https://mshawn2000.github.io/sellerstack-ai/tools/feedonomics/): Managed product feed optimization across channels. Limitation: Enterprise pricing
-- [Linnworks](https://mshawn2000.github.io/sellerstack-ai/tools/linnworks/): Multi-channel inventory/order management. Limitation: Implementation effort
-- [ChannelEngine](https://mshawn2000.github.io/sellerstack-ai/tools/channelengine/): Marketplace integration hub. Limitation: Enterprise-leaning
+- [Feedonomics](https://mshawn2000.github.io/sellerstack-ai/tools/feedonomics/): Managed product feed optimization across channels. Limitation: Enterprise pricing. Pricing: Not yet verified
+- [Linnworks](https://mshawn2000.github.io/sellerstack-ai/tools/linnworks/): Multi-channel inventory/order management. Limitation: Implementation effort. Pricing: Not yet verified
+- [ChannelEngine](https://mshawn2000.github.io/sellerstack-ai/tools/channelengine/): Marketplace integration hub. Limitation: Enterprise-leaning. Pricing: Not yet verified
 
 ## Analytics & Profit
-- [sellerboard](https://mshawn2000.github.io/sellerstack-ai/tools/sellerboard/): Accurate Amazon profit tracking incl. fees/PPC/COGS. Limitation: Amazon-focused; UI basic
-- [Triple Whale](https://mshawn2000.github.io/sellerstack-ai/tools/triple-whale/): Shopify attribution and profit dashboards with AI. Limitation: Attribution is modeled; costly at scale
-- [Klaviyo](https://mshawn2000.github.io/sellerstack-ai/tools/klaviyo/): Email/SMS with AI segmentation and predictive analytics. Limitation: Price grows with list size
-- [Getida](https://mshawn2000.github.io/sellerstack-ai/tools/getida/): FBA reimbursement recovery. Limitation: Commission-based; similar services exist
+- [sellerboard](https://mshawn2000.github.io/sellerstack-ai/tools/sellerboard/): Accurate Amazon profit tracking incl. fees/PPC/COGS. Limitation: Amazon-focused; UI basic. Pricing: From $15/mo yearly ($19 monthly)
+- [Triple Whale](https://mshawn2000.github.io/sellerstack-ai/tools/triple-whale/): Shopify attribution and profit dashboards with AI. Limitation: Attribution is modeled; costly at scale. Pricing: Not yet verified
+- [Klaviyo](https://mshawn2000.github.io/sellerstack-ai/tools/klaviyo/): Email/SMS with AI segmentation and predictive analytics. Limitation: Price grows with list size. Pricing: Free up to 250 profiles; paid scales with list size
+- [Getida](https://mshawn2000.github.io/sellerstack-ai/tools/getida/): FBA reimbursement recovery. Limitation: Commission-based; similar services exist. Pricing: Not yet verified
 
 ## Reviews & Feedback
-- [FeedbackWhiz](https://mshawn2000.github.io/sellerstack-ai/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: Amazon limits what requests can say
-- [Yotpo](https://mshawn2000.github.io/sellerstack-ai/tools/yotpo/): Reviews, UGC and loyalty for Shopify. Limitation: Gets expensive
-- [Judge.me](https://mshawn2000.github.io/sellerstack-ai/tools/judge-me/): Affordable Shopify product reviews. Limitation: Less advanced AI than premium tools
-- [Okendo](https://mshawn2000.github.io/sellerstack-ai/tools/okendo/): Reviews/UGC/surveys for Shopify Plus-type brands. Limitation: Premium pricing
+- [FeedbackWhiz](https://mshawn2000.github.io/sellerstack-ai/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: Amazon limits what requests can say. Pricing: From $20/mo ($16/mo yearly); Basic $40/mo
+- [Yotpo](https://mshawn2000.github.io/sellerstack-ai/tools/yotpo/): Reviews, UGC and loyalty for Shopify. Limitation: Gets expensive. Pricing: Reviews free plan, paid from $15/mo; bundles $89–$169/mo
+- [Judge.me](https://mshawn2000.github.io/sellerstack-ai/tools/judge-me/): Affordable Shopify product reviews. Limitation: Less advanced AI than premium tools. Pricing: Free; Awesome $15/mo
+- [Okendo](https://mshawn2000.github.io/sellerstack-ai/tools/okendo/): Reviews/UGC/surveys for Shopify Plus-type brands. Limitation: Premium pricing. Pricing: Not yet verified
 
 ## Summary
 - [Full plain-language summary](https://mshawn2000.github.io/sellerstack-ai/summary/)
