@@ -34,6 +34,16 @@
 - [Aakaar AI](https://aisellerindex.com/tools/aakaar-ai/): Agentic AI platform for Amazon PPC optimization. Limitation: Starts at $199–$300/mo; brands over $1M/mo get custom pricing. Pricing: Claude/ChatGPT plan from $199/mo; Agentic AI Platform from $300/mo; 30-day money-back guarantee
 - [Trellis](https://aisellerindex.com/tools/trellis/): AI ad scaling plus dynamic pricing for Amazon and Walmart. Limitation: No public price; demo-led sales. Pricing: Not verified (no public price found on vendor pricing page, Oct 14, 2026)
 - [Xnurta](https://aisellerindex.com/tools/xnurta/): AI retail media management for Amazon, Walmart and Criteo. Limitation: Minimum $750/mo makes it a fit only once ad spend is substantial. Pricing: Lead $750/mo or 3% of ad spend; Enterprise custom
+- [Adspert](https://aisellerindex.com/tools/adspert/): AI bid management for Amazon and Google Ads. Limitation: Base fee plus a % of managed ad spend, so cost grows with spend. Pricing: €99, €499, €999 per month plus a % commission on optimized ad spend (from 1.7%)
+- [Signalytics](https://aisellerindex.com/tools/signalytics/): AI-assisted Amazon PPC with optional managed service. Limitation: Feature limits per tier are based on AI 'credits'; check what you need. Pricing: SaaS: Starter $45, Growth $95, Professional $195 per month ($450/$950/$1,950 yearly)
+- [Optmyzr](https://aisellerindex.com/tools/optmyzr/): Google and Microsoft Ads optimization toolkit. Limitation: Not for Amazon Ads; priced by ad spend. Pricing: From $209/mo, scaling with ad spend
+- [Birch (formerly Revealbot)](https://aisellerindex.com/tools/birch/): Rules-based automation for Meta, Google, TikTok and Snapchat ads. Limitation: Not for Amazon Ads; price rises with ad spend. Pricing: Essential and Pro plans from $49–$99/mo at up to $10K ad spend; higher spend costs more
+- [AdEspresso](https://aisellerindex.com/tools/adespresso/): Facebook and Instagram ad testing and management. Limitation: Starter plan caps ad spend at $1,000/mo. Pricing: Starter $49/mo, Plus $99/mo, Enterprise from $259/mo
+- [Pencil](https://aisellerindex.com/tools/pencil/): AI-generated ad creatives for social campaigns. Limitation: Generation limits per plan; AI output still needs review. Pricing: Core $14/mo ($11 yearly), Growth $55/mo ($44 yearly)
+- [BidX](https://aisellerindex.com/tools/bidx/): Automated Amazon Ads bidding and campaign structure. Limitation: Price not shown on its pricing page. Pricing: not verified
+- [Intentwise](https://aisellerindex.com/tools/intentwise/): Amazon and Walmart ads management and analytics. Limitation: Enterprise-oriented; no public prices. Pricing: not verified
+- [Sellozo](https://aisellerindex.com/tools/sellozo/): AI automation for Amazon PPC. Limitation: Price not shown on its pricing page. Pricing: not verified
+- [Madgicx](https://aisellerindex.com/tools/madgicx/): AI tools for Meta ads targeting, creative and reporting. Limitation: Price depends on ad spend; not for Amazon Ads. Pricing: not verified
 
 ## Inventory & Forecasting
 - [Inventory Planner](https://aisellerindex.com/tools/inventory-planner/): Demand forecasting and POs for Shopify/multi-channel. Limitation: Now part of Sage; pricing by revenue. Pricing: Not yet verified
@@ -44,6 +54,7 @@
 - [Ordoro](https://aisellerindex.com/tools/ordoro/): Inventory sync, dropshipping and shipping labels. Limitation: Inventory features sit on separate, pricier plans than shipping. Pricing: Shipping free/$59/$149 per month; inventory from $349/mo; dropshipping from $299/mo
 - [StockTrim](https://aisellerindex.com/tools/stocktrim/): Demand forecasting and reorder suggestions. Limitation: Pricing depends on revenue band; check the calculator. Pricing: not verified
 - [Flieber](https://aisellerindex.com/tools/flieber/): Inventory planning for omnichannel and Amazon brands. Limitation: Price not published on its pricing page. Pricing: not verified
+- [RestockPro (eComEngine)](https://aisellerindex.com/tools/restockpro/): FBA restock forecasting and purchase orders. Limitation: Amazon-focused; priced by FBA order volume. Pricing: Starting at $49/mo (1,000 FBA orders)
 
 ## Customer Service
 - [Gorgias](https://aisellerindex.com/tools/gorgias/): E-com helpdesk with AI agent and Shopify integration. Limitation: Ticket-based pricing adds up. Pricing: Starter $40/mo; higher tiers from $77/mo yearly; AI Agent add-on
@@ -86,6 +97,13 @@
 - [Zentail](https://aisellerindex.com/tools/zentail/): Central catalog and order routing for Walmart, Target Plus and Amazon. Limitation: Annual contracts; Pro tier is expensive. Pricing: Base from $300/mo; Pro from $2,000/mo (annual contract)
 - [StoreAutomator](https://aisellerindex.com/tools/storeautomator/): Multichannel listing, order and inventory management. Limitation: No public prices; sales-led onboarding. Pricing: Not verified (no public price found on vendor pricing page, Oct 14, 2026)
 - [Flashpricer](https://aisellerindex.com/tools/flashpricer/): Fast repricing to win the Buy Box on Amazon and Walmart. Limitation: Repricing only; brands with private label may not need it. Pricing: $99/mo (Starter) to $559/mo (Enterprise); 14-day free trial
+- [Sellercloud](https://aisellerindex.com/tools/sellercloud/): Inventory, order and warehouse management across marketplaces. Limitation: Expensive; warehouse module costs extra. Pricing: Essentials from $1,349/mo, Growth from $1,849/mo; WMS typically +$500–$650/mo
+- [Aura](https://aisellerindex.com/tools/aura/): Fast AI repricer for Amazon. Limitation: Repricing only; can trigger price wars if set too aggressively. Pricing: Billed annually: Starter $37, Essential $77, Plus $157, Pro $237 per month
+- [Informed.co](https://aisellerindex.com/tools/informed/): Repricing for Amazon, Walmart and more. Limitation: Faster repricing (Overdrive) costs extra. Pricing: Launch $99/mo, Professional $199/mo, Enterprise from $499/mo; Overdrive add-on $29/mo
+- [Seller Snap](https://aisellerindex.com/tools/seller-snap/): AI repricer using game-theory pricing. Limitation: Starter limited to 1,000 SKUs and $15K/mo revenue. Pricing: Starter $100/mo (annual); Accelerator $250/mo ($212 billed yearly)
+- [Repricer.com](https://aisellerindex.com/tools/repricer-com/): Amazon repricing with Buy Box strategies. Limitation: Several add-ons are priced separately in euros. Pricing: $99, $299, $499 per month base plans
+- [Alpha Repricer](https://aisellerindex.com/tools/alpha-repricer/): Budget Amazon repricer. Limitation: Lower tiers cap SKUs and revenue. Pricing: Starter $29/mo, Bronze $40/mo, Silver $60/mo and up
+- [Boxem](https://aisellerindex.com/tools/boxem/): FBA shipment prep, labeling and shipping. Limitation: Mostly useful for FBA prep workflows. Pricing: From $49.99/mo ($38/mo billed annually); higher plan $69.99/mo
 
 ## Analytics & Profit
 - [sellerboard](https://aisellerindex.com/tools/sellerboard/): Accurate Amazon profit tracking incl. fees/PPC/COGS. Limitation: Amazon-focused; UI basic. Pricing: From $15/mo yearly ($19 monthly)
@@ -95,6 +113,7 @@
 - [TrackIQ](https://aisellerindex.com/tools/trackiq/): AI analyst that turns Amazon retail, ads and AMC data into reports and alerts. Limitation: Priced per brand, so multi-brand costs add up; focused on Amazon. Pricing: MCP-only $69/mo; Solo Seller $149/mo, Growing Brand $349/mo, Established Brand $549/mo per brand
 - [MerchantSpring](https://aisellerindex.com/tools/merchantspring/): Marketplace performance analytics across 120+ channels. Limitation: Built for reporting, not execution; higher price than single-seller profit tools. Pricing: Seller $399/mo ($319/mo yearly); Vendor $699/mo ($559/mo yearly)
 - [ConnectBooks](https://aisellerindex.com/tools/connectbooks/): Syncing marketplace sales and fees into QuickBooks or Xero with profit reports. Limitation: Accounting sync, not an ads or research tool; price rises with order volume. Pricing: Gold from $149/mo, Diamond from $199/mo, Platinum from $349/mo (scales by order volume)
+- [Seller Labs](https://aisellerindex.com/tools/seller-labs/): Amazon seller tools (keywords, feedback, ads insights). Limitation: Tiers are based on tool-call allowance, which takes getting used to. Pricing: Paid tiers include $39/mo for 101–400 tool calls per month
 
 ## Reviews & Feedback
 - [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: Amazon limits what requests can say. Pricing: From $20/mo ($16/mo yearly); Basic $40/mo
@@ -106,6 +125,8 @@
 - [Fera](https://aisellerindex.com/tools/fera/): Low-cost reviews app with AI review replies. Limitation: Price tiers rise quickly with order volume. Pricing: From $9/mo ($7 billed yearly) up to $999/mo by tier
 - [Trustpilot](https://aisellerindex.com/tools/trustpilot/): Company reviews on a widely recognized third-party site. Limitation: Paid plans are pricey per domain; not a product-review widget first. Pricing: Free plan; Starter from $99, Plus from $319, Premium from $799 per month per domain (billed annually)
 - [Loox](https://aisellerindex.com/tools/loox/): Photo and video reviews for Shopify. Limitation: Shopify only; order-based pricing grows with volume. Pricing: From $49.99/mo (300 orders, +$50 per extra 300); Unlimited $299.99/mo (Shopify App Store listing)
+- [FeedbackFive (eComEngine)](https://aisellerindex.com/tools/feedbackfive/): Automated Amazon review and seller feedback requests. Limitation: Amazon-only; review volume still depends on buyers. Pricing: Starting at $34/mo (order-volume tiers)
+- [Zonmaster](https://aisellerindex.com/tools/zonmaster/): Cheap Amazon buyer email and review-request automation. Limitation: Basic interface; limited live support on low tiers. Pricing: Free; Mini $7/mo; Basic $10/mo and up
 
 ## Summary
 - [Full plain-language summary](https://aisellerindex.com/summary/)
