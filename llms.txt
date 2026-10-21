@@ -86,6 +86,7 @@
 - [Siena AI](https://aisellerindex.com/tools/siena-ai/): AI agent that handles e-com support tickets end to end. Limitation: $750/mo platform fee before any tickets — not for small sellers. Pricing: $750/mo platform fee plus $0.90 per automated ticket
 - [Chatbase](https://aisellerindex.com/tools/chatbase/): Build a custom AI chatbot trained on your store's content. Limitation: General-purpose; you set up and maintain the training content yourself. Pricing: Hobby $40/mo ($32 billed yearly); Standard $150/mo ($120 billed yearly)
 - [Kustomer](https://aisellerindex.com/tools/kustomer/): CRM-style helpdesk with AI for high-volume brands. Limitation: Aimed at large teams; price not published on its pricing page. Pricing: not verified
+- [Robylon](https://aisellerindex.com/tools/robylon/): Shopify sellers who want one AI support agent across chat, email, WhatsApp and voice. Limitation: No Amazon integration; free plan is chat only (~40 conversations/mo); voice and Zendesk/Freshdesk handoff need the $180/mo Business plan. Pricing: Free Starter (300 credits/mo, ~40 conversations); Pro from $25/mo (500 credits); Business from $180/mo; 10% off yearly
 
 ## Image & Creative
 - [Pebblely](https://aisellerindex.com/tools/pebblely/): AI product lifestyle backgrounds. Limitation: Results vary; check Amazon image rules. Pricing: Lite $9, Basic $19, Pro $39/mo
