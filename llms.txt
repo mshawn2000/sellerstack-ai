@@ -4,7 +4,7 @@
 ## Product Research
 - [Jungle Scout](https://aisellerindex.com/tools/jungle-scout/): Amazon market intelligence and product validation. Limitation: Estimates are modeled, not actual sales. Pricing: From $49/mo
 - [Helium 10](https://aisellerindex.com/tools/helium-10/): All-in-one Amazon suite (research, keywords, listings, PPC). Limitation: Broad but deep tiers get pricey; learning curve. Pricing: Platinum $129/mo ($99/mo billed yearly); Diamond/Enterprise higher
-- [SmartScout](https://aisellerindex.com/tools/smartscout/): Brand/seller-level market mapping and wholesale sourcing. Limitation: Less useful for private-label keyword work. Pricing: $49/$119/$299 monthly; $29/$99/$239 per month billed yearly
+- [SmartScout](https://aisellerindex.com/tools/smartscout/): Brand/seller-level market mapping and wholesale sourcing. Limitation: Less useful for private-label keyword work. Pricing: $49/$119/$299 monthly; $29/$99/$239 per month billed yearly. Code AISELLERINDEX: 25% off your first 3 months
 - [Viral Launch](https://aisellerindex.com/tools/viral-launch/): Product discovery plus keyword research. Limitation: Overlaps heavily with Jungle Scout/Helium 10. Pricing: No longer sold (shut down; site parked)
 - [SellerSprite](https://aisellerindex.com/tools/sellersprite/): Low-cost keyword and product research across marketplaces. Limitation: UI/translation rough in places. Pricing: From $39/mo (Basic)
 - [Keepa](https://aisellerindex.com/tools/keepa/): Price/BSR history tracking. Limitation: Not AI-driven; data-heavy charts. Pricing: From €29/mo (Keepa Pro); free tier available
@@ -17,6 +17,7 @@
 - [Sell The Trend](https://aisellerindex.com/tools/sell-the-trend/): NEXUS AI winning-product discovery plus Facebook/TikTok ad spy for dropship and Shopify sellers. Limitation: Built for dropship/import workflows more than Amazon private-label brand building; trial requires a payment method. Pricing: From $29.97/mo
 - [Minea](https://aisellerindex.com/tools/minea/): Ad-spy and AI ad analysis to find proven ecommerce creatives and winning products. Limitation: AI analysis/transcript quotas on lower plans; strongest for paid-social discovery, not Amazon keyword research. Pricing: From $49/mo
 - [EchoTik](https://aisellerindex.com/tools/echotik/): TikTok Shop product, creator, live, and video analytics with AI analysis tools. Limitation: Free plan is heavily capped; paid prices shown are billed yearly; not an Amazon research tool. Pricing: Free; paid from $9.9/mo (billed yearly)
+- [ZonBase](https://aisellerindex.com/tools/zonbase/): Amazon product and keyword research bundled with training. Limitation: Plans mix tools with training, so you may pay for lessons you don't need. Pricing: Standard $49/mo or $399/yr; Legendary $109/mo or $999/yr; Diamond $299/mo or $2,399/yr
 
 ## Listing Optimization
 - [ZonGuru](https://aisellerindex.com/tools/zonguru/): AI listing engineering (Helix) for Amazon. Limitation: Now listing-focused and priced per catalog size; costly for one-product sellers. Pricing: Helix $149/$299/$699/mo (monthly); ~17% less yearly
@@ -157,6 +158,7 @@
 - [DataHawk](https://aisellerindex.com/tools/datahawk/): Amazon and Walmart analytics. Limitation: Custom plans only. Pricing: not verified
 - [Northbeam](https://aisellerindex.com/tools/northbeam/): Multi-touch ad attribution. Limitation: Quote-based; aimed at big spenders. Pricing: not verified
 - [Putler](https://aisellerindex.com/tools/putler/): Combined sales analytics across payment and store platforms. Limitation: Price depends on revenue; not clearly listed. Pricing: not verified
+- [Octane AI](https://aisellerindex.com/tools/octane-ai/): AI product quizzes and shopper data for Shopify. Limitation: Shopify-only; credit limits per plan, with overage billed at $0.10 per credit. Pricing: Basic $50/mo ($43/mo yearly), Plus $200/mo ($170/mo yearly), Enterprise $500+/mo; 14-day free trial
 
 ## Reviews & Feedback
 - [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: Amazon limits what requests can say. Pricing: From $20/mo ($16/mo yearly); Basic $40/mo
@@ -170,6 +172,7 @@
 - [Loox](https://aisellerindex.com/tools/loox/): Photo and video reviews for Shopify. Limitation: Shopify only; order-based pricing grows with volume. Pricing: From $49.99/mo (300 orders, +$50 per extra 300); Unlimited $299.99/mo (Shopify App Store listing)
 - [FeedbackFive (eComEngine)](https://aisellerindex.com/tools/feedbackfive/): Automated Amazon review and seller feedback requests. Limitation: Amazon-only; review volume still depends on buyers. Pricing: Starting at $34/mo (order-volume tiers)
 - [Zonmaster](https://aisellerindex.com/tools/zonmaster/): Cheap Amazon buyer email and review-request automation. Limitation: Basic interface; limited live support on low tiers. Pricing: Free; Mini $7/mo; Basic $10/mo and up
+- [VOC.AI](https://aisellerindex.com/tools/voc-ai/): AI analysis of Amazon product reviews from an ASIN. Limitation: It analyzes reviews; it does not send review requests. Pricing: Free 3-day trial (3 analyses); Personal $99/mo, Team $299/mo
 
 ## Summary
 - [Full plain-language summary](https://aisellerindex.com/summary/)
@@ -200,6 +203,7 @@
 - [Amazon PPC tools under $100 a month (2026 prices)](https://aisellerindex.com/guides/amazon-ppc-tools-under-100/): Cheap Amazon PPC automation tools with vendor prices: Signalytics, m19, Scale Insights, Adspert, SellerApp, compared with Teikametrics.
 - [Best Amazon repricers (2026 prices)](https://aisellerindex.com/guides/best-amazon-repricers/): Amazon repricing tools compared with vendor prices: Alpha Repricer, Flashpricer, Repricer.com, Seller Snap, RepricerExpress.
 - [Best Shopify SEO apps (2026 prices)](https://aisellerindex.com/guides/best-shopify-seo-apps/): Shopify SEO apps compared with prices from their Shopify App Store or pricing pages: StoreSEO, TinyIMG, Avada, SEO Booster, Plug in SEO.
+- [Best Amazon review request tools (2026 prices)](https://aisellerindex.com/guides/best-amazon-review-request-tools/): Amazon review request software compared with vendor prices: Zonmaster, FeedbackWhiz, FeedbackFive, plus VOC.AI for reading reviews.
 
 ## Head-to-heads
 - [Jungle Scout vs Helium 10](https://aisellerindex.com/compare/jungle-scout-vs-helium-10/)
