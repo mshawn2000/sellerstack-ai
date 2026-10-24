@@ -20,6 +20,9 @@
 - [ZonBase](https://aisellerindex.com/tools/zonbase/): Amazon product and keyword research bundled with training. Limitation: Plans mix tools with training, so you may pay for lessons you don't need. Pricing: Standard $49/mo or $399/yr; Legendary $109/mo or $999/yr; Diamond $299/mo or $2,399/yr
 - [SellerAmp SAS](https://aisellerindex.com/tools/selleramp-sas/): Fast profit, ROI and restriction checks when sourcing products for Amazon. Limitation: A sourcing calculator, not a full suite for ads or listings. Pricing: Getting Started $19.95/mo, Getting Serious $29.95/mo, Going Pro $49.95/mo
 - [ScanUnlimited](https://aisellerindex.com/tools/scanunlimited/): Bulk-scanning supplier price lists against Amazon to find profitable items. Limitation: Works from files you upload; free plan is limited to 1 upload a month. Pricing: Limited free (1 file upload/mo); Unlimited $70/mo ($60/mo on the annual plan)
+- [Seller Assistant App](https://aisellerindex.com/tools/seller-assistant-app/): Chrome extension and price-list tools for checking Amazon profit, ROI and selling restrictions while sourcing. Limitation: Built for sourcing; not a tool for ads or listing writing. Pricing: Pro $29.99/mo, Business $79.99/mo, Business Plus $189.99/mo ($24.99, $69.99, $159.99/mo billed yearly); 14-day free trial
+- [BuyBotPro](https://aisellerindex.com/tools/buybotpro/): Automated deal analysis for online and retail arbitrage, with a buy or don't-buy check per product. Limitation: Main pricing page is in GBP plus VAT; a sourcing checker, not a full seller suite. Pricing: From £11.95/mo plus VAT (Lite); Advanced £24.95, Professional £34.95, Enterprise £99.95 per month; 30-day free trial
+- [RevSeller](https://aisellerindex.com/tools/revseller/): Low-cost Chrome extension that shows fees, profit and variations right on Amazon product pages. Limitation: An on-page calculator only; no product finding or deal lists. Pricing: $99.99/yr ($8.33/mo) or $19.99/mo; 30-day free trial, no card needed
 
 ## Listing Optimization
 - [ZonGuru](https://aisellerindex.com/tools/zonguru/): AI listing engineering (Helix) for Amazon. Limitation: Now listing-focused and priced per catalog size; costly for one-product sellers. Pricing: Helix $149/$299/$699/mo (monthly); ~17% less yearly
@@ -165,7 +168,7 @@
 - [Octane AI](https://aisellerindex.com/tools/octane-ai/): AI product quizzes and shopper data for Shopify. Limitation: Shopify-only; credit limits per plan, with overage billed at $0.10 per credit. Pricing: Basic $50/mo ($43/mo yearly), Plus $200/mo ($170/mo yearly), Enterprise $500+/mo; 14-day free trial
 
 ## Reviews & Feedback
-- [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: Amazon limits what requests can say. Pricing: From $20/mo ($16/mo yearly); Basic $40/mo
+- [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: No longer sold on its own: feedbackwhiz.com now sends you to Threecolts Seller 365, a bigger bundle. Pricing: Now part of Threecolts Seller 365: Standard $69/mo ($65/mo yearly), 14-day free trial
 - [Yotpo](https://aisellerindex.com/tools/yotpo/): Reviews, UGC and loyalty for Shopify. Limitation: Gets expensive. Pricing: Reviews free plan, paid from $15/mo; bundles $89–$169/mo
 - [Judge.me](https://aisellerindex.com/tools/judge-me/): Affordable Shopify product reviews. Limitation: Less advanced AI than premium tools. Pricing: Free; Awesome $15/mo
 - [Okendo](https://aisellerindex.com/tools/okendo/): Reviews/UGC/surveys for Shopify Plus-type brands. Limitation: Premium pricing. Pricing: Free; Essential from $19/mo
@@ -209,6 +212,7 @@
 - [Best Shopify SEO apps (2026 prices)](https://aisellerindex.com/guides/best-shopify-seo-apps/): Shopify SEO apps compared with prices from their Shopify App Store or pricing pages: StoreSEO, TinyIMG, Avada, SEO Booster, Plug in SEO.
 - [Best Amazon review request tools (2026 prices)](https://aisellerindex.com/guides/best-amazon-review-request-tools/): Amazon review request software compared with vendor prices: Zonmaster, FeedbackWhiz, FeedbackFive, plus VOC.AI for reading reviews.
 - [Best Amazon accounting software for QuickBooks and Xero (2026 prices)](https://aisellerindex.com/guides/best-amazon-accounting-software-quickbooks/): Amazon accounting software compared with vendor prices: Taxomate, A2X, Webgility and ConnectBooks for QuickBooks and Xero, plus sellerboard for daily profit.
+- [Best online arbitrage tools for Amazon (2026 prices)](https://aisellerindex.com/guides/best-online-arbitrage-tools-amazon/): Online arbitrage tools compared with vendor prices: RevSeller, SellerAmp SAS, Seller Assistant App, BuyBotPro, Keepa and ScanUnlimited, plus sellerboard for profit.
 
 ## Head-to-heads
 - [Jungle Scout vs Helium 10](https://aisellerindex.com/compare/jungle-scout-vs-helium-10/)
