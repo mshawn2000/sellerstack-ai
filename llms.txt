@@ -23,6 +23,7 @@
 - [Seller Assistant App](https://aisellerindex.com/tools/seller-assistant-app/): Chrome extension and price-list tools for checking Amazon profit, ROI and selling restrictions while sourcing. Limitation: Built for sourcing; not a tool for ads or listing writing. Pricing: Pro $29.99/mo, Business $79.99/mo, Business Plus $189.99/mo ($24.99, $69.99, $159.99/mo billed yearly); 14-day free trial
 - [BuyBotPro](https://aisellerindex.com/tools/buybotpro/): Automated deal analysis for online and retail arbitrage, with a buy or don't-buy check per product. Limitation: Main pricing page is in GBP plus VAT; a sourcing checker, not a full seller suite. Pricing: From £11.95/mo plus VAT (Lite); Advanced £24.95, Professional £34.95, Enterprise £99.95 per month; 30-day free trial
 - [RevSeller](https://aisellerindex.com/tools/revseller/): Low-cost Chrome extension that shows fees, profit and variations right on Amazon product pages. Limitation: An on-page calculator only; no product finding or deal lists. Pricing: $99.99/yr ($8.33/mo) or $19.99/mo; 30-day free trial, no card needed
+- [AMZScout](https://aisellerindex.com/tools/amzscout/): Chrome extension plus web app for product ideas, sales estimates, keyword research and product tracking, with an AI chatbot. Limitation: No free plan, only a free trial of the extension. Pricing: AI Bundle $59.99 for 1 month, $169.99 for 3 months or $399.99 for 12 months; free PRO AI Extension trial, no card
 
 ## Listing Optimization
 - [ZonGuru](https://aisellerindex.com/tools/zonguru/): AI listing engineering (Helix) for Amazon. Limitation: Now listing-focused and priced per catalog size; costly for one-product sellers. Pricing: Helix $149/$299/$699/mo (monthly); ~17% less yearly
@@ -41,6 +42,8 @@
 - [StoreSEO](https://aisellerindex.com/tools/storeseo/): AI SEO for Shopify products. Limitation: Product limits per plan. Pricing: Lite $14.99, Essential $39.99, Advanced $249.99 per month
 - [CopyMonkey](https://aisellerindex.com/tools/copymonkey/): Keyword-led Amazon title, bullets, and description drafts at catalog scale. Limitation: AI drafts still need human compliance and brand-voice review before go-live. Pricing: From $49/mo
 - [Ecomtent](https://aisellerindex.com/tools/ecomtent/): AI-written product listing content plus AI search visibility analytics. Limitation: Pricey for small sellers; plans are capped by SKUs per month. Pricing: From $599/mo (25 SKUs/mo), with discounts for longer billing; $1,599/mo and $5,999/mo tiers
+- [MerchantWords](https://aisellerindex.com/tools/merchantwords/): Amazon keyword search data pulled from the Amazon search bar, across 11 marketplaces. Limitation: Keyword data only; no product database, listing builder or profit tools. Pricing: Silver $35/mo (single country); $79/mo for all countries
+- [Keyword Tool Dominator](https://aisellerindex.com/tools/keyword-tool-dominator/): Cheap keyword ideas from Amazon, Etsy, eBay and Google autocomplete, paid once instead of monthly. Limitation: Autocomplete-based ideas, not a full Amazon analytics suite. Pricing: Free tier; one-time payments from $9 for 30 days, $39 for 1 year, lifetime from $89 (max $149)
 
 ## PPC & Ads
 - [Perpetua](https://aisellerindex.com/tools/perpetua/): Goal-based Amazon/Walmart ad automation. Limitation: Less granular manual control. Pricing: From $695/mo; Growth adds % of ad spend
@@ -213,6 +216,7 @@
 - [Best Amazon review request tools (2026 prices)](https://aisellerindex.com/guides/best-amazon-review-request-tools/): Amazon review request software compared with vendor prices: Zonmaster, FeedbackWhiz, FeedbackFive, plus VOC.AI for reading reviews.
 - [Best Amazon accounting software for QuickBooks and Xero (2026 prices)](https://aisellerindex.com/guides/best-amazon-accounting-software-quickbooks/): Amazon accounting software compared with vendor prices: Taxomate, A2X, Webgility and ConnectBooks for QuickBooks and Xero, plus sellerboard for daily profit.
 - [Best online arbitrage tools for Amazon (2026 prices)](https://aisellerindex.com/guides/best-online-arbitrage-tools-amazon/): Online arbitrage tools compared with vendor prices: RevSeller, SellerAmp SAS, Seller Assistant App, BuyBotPro, Keepa and ScanUnlimited, plus sellerboard for profit.
+- [Best Amazon keyword research tools (2026 prices)](https://aisellerindex.com/guides/best-amazon-keyword-research-tools/): Amazon keyword research tools compared with vendor prices: Keyword Tool Dominator, MerchantWords, SellerSprite, Datadive, AMZScout, SmartScout and Helium 10.
 
 ## Head-to-heads
 - [Jungle Scout vs Helium 10](https://aisellerindex.com/compare/jungle-scout-vs-helium-10/)
