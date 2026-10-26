@@ -44,6 +44,8 @@
 - [Ecomtent](https://aisellerindex.com/tools/ecomtent/): AI-written product listing content plus AI search visibility analytics. Limitation: Pricey for small sellers; plans are capped by SKUs per month. Pricing: From $599/mo (25 SKUs/mo), with discounts for longer billing; $1,599/mo and $5,999/mo tiers
 - [MerchantWords](https://aisellerindex.com/tools/merchantwords/): Amazon keyword search data pulled from the Amazon search bar, across 11 marketplaces. Limitation: Keyword data only; no product database, listing builder or profit tools. Pricing: Silver $35/mo (single country); $79/mo for all countries
 - [Keyword Tool Dominator](https://aisellerindex.com/tools/keyword-tool-dominator/): Cheap keyword ideas from Amazon, Etsy, eBay and Google autocomplete, paid once instead of monthly. Limitation: Autocomplete-based ideas, not a full Amazon analytics suite. Pricing: Free tier; one-time payments from $9 for 30 days, $39 for 1 year, lifetime from $89 (max $149)
+- [Surinch Listing Compliance Check](https://aisellerindex.com/tools/surinch-listing-compliance-check/): Free pre-listing check of which certificates (like CPC, GCC, FCC), hazmat documents and liability insurance Amazon US may ask for, by category and product attributes. Limitation: Reference only, not legal advice; Amazon US only; checklist-style tool from a small Shanghai company, paid plans not out yet. Pricing: Free, no sign-up (vendor says paid version coming soon)
+- [Smartli](https://aisellerindex.com/tools/smartli/): AI SEO product descriptions, blog posts and ad copy for Shopify and dropshipping stores. Limitation: Monthly plans cap how many descriptions you get (20 on Starter); general writing tool, not Amazon-specific. Pricing: Starter $39/mo, Pro $59/mo, Empire $99/mo, Unicorn $299/mo; yearly from $24/mo; 7-day free trial
 
 ## PPC & Ads
 - [Perpetua](https://aisellerindex.com/tools/perpetua/): Goal-based Amazon/Walmart ad automation. Limitation: Less granular manual control. Pricing: From $695/mo; Growth adds % of ad spend
@@ -140,6 +142,8 @@
 - [Listing Mirror](https://aisellerindex.com/tools/listing-mirror/): List and sync inventory across marketplaces. Limitation: Price not shown on pricing page. Pricing: not verified
 - [RepricerExpress](https://aisellerindex.com/tools/repricerexpress/): Amazon and eBay repricing. Limitation: Price not shown on pricing page. Pricing: not verified
 - [InventoryLab](https://aisellerindex.com/tools/inventorylab/): Listing, FBA shipment prep and profit-and-loss tracking in one place. Limitation: Restock suggestions are a $25/mo add-on on the standalone plan. Pricing: $69/mo ($58/mo billed yearly); 30-day free trial
+- [Staffly](https://aisellerindex.com/tools/staffly/): Ready-made AI staff for small Shopify and Etsy shops: store manager, bookkeeper, social media poster and review responder, with owner approval before anything goes out. Limitation: Brand-new product with no public reviews yet; Shopify and Etsy only, not Amazon. Pricing: Solo Hire $99/mo (1 role), Dynamic Duo $199/mo (2), Full Crew $299/mo (all 4); founder price $75 or $150/mo for the first 10 shops; free store audit
+- [Rebuy](https://aisellerindex.com/tools/rebuy/): AI product recommendations, smart cart, upsells, bundles and search for Shopify stores. Limitation: Shopify only; price grows with monthly orders; checkout extensions need Shopify Plus. Pricing: Rebuy Monetize free; build-your-own plans as low as $25/mo; Platform One shown from $534/mo; all priced by orders per month
 
 ## Analytics & Profit
 - [sellerboard](https://aisellerindex.com/tools/sellerboard/): Accurate Amazon profit tracking incl. fees/PPC/COGS. Limitation: Amazon-focused; UI basic. Pricing: From $15/mo yearly ($19 monthly)
@@ -169,6 +173,7 @@
 - [Northbeam](https://aisellerindex.com/tools/northbeam/): Multi-touch ad attribution. Limitation: Quote-based; aimed at big spenders. Pricing: not verified
 - [Putler](https://aisellerindex.com/tools/putler/): Combined sales analytics across payment and store platforms. Limitation: Price depends on revenue; not clearly listed. Pricing: not verified
 - [Octane AI](https://aisellerindex.com/tools/octane-ai/): AI product quizzes and shopper data for Shopify. Limitation: Shopify-only; credit limits per plan, with overage billed at $0.10 per credit. Pricing: Basic $50/mo ($43/mo yearly), Plus $200/mo ($170/mo yearly), Enterprise $500+/mo; 14-day free trial
+- [Prisync](https://aisellerindex.com/tools/prisync/): Competitor price tracking and dynamic pricing for online stores, including Shopify, Google Shopping and marketplaces. Limitation: Priced by product count; dynamic pricing starts on the $199/mo Premium plan; API costs 20% extra. Pricing: URL-based plans: Professional $99/mo (100 products), Premium $199/mo (1,000), Platinum $399/mo (5,000); 14-day free trial, no card
 
 ## Reviews & Feedback
 - [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: No longer sold on its own: feedbackwhiz.com now sends you to Threecolts Seller 365, a bigger bundle. Pricing: Now part of Threecolts Seller 365: Standard $69/mo ($65/mo yearly), 14-day free trial
@@ -217,6 +222,7 @@
 - [Best Amazon accounting software for QuickBooks and Xero (2026 prices)](https://aisellerindex.com/guides/best-amazon-accounting-software-quickbooks/): Amazon accounting software compared with vendor prices: Taxomate, A2X, Webgility and ConnectBooks for QuickBooks and Xero, plus sellerboard for daily profit.
 - [Best online arbitrage tools for Amazon (2026 prices)](https://aisellerindex.com/guides/best-online-arbitrage-tools-amazon/): Online arbitrage tools compared with vendor prices: RevSeller, SellerAmp SAS, Seller Assistant App, BuyBotPro, Keepa and ScanUnlimited, plus sellerboard for profit.
 - [Best Amazon keyword research tools (2026 prices)](https://aisellerindex.com/guides/best-amazon-keyword-research-tools/): Amazon keyword research tools compared with vendor prices: Keyword Tool Dominator, MerchantWords, SellerSprite, Datadive, AMZScout, SmartScout and Helium 10.
+- [Best competitor price tracking tools for Amazon and Shopify (2026 prices)](https://aisellerindex.com/guides/competitor-price-tracking-tools/): Competitor price tracking tools compared with vendor prices: Prisync for Shopify and web stores, Keepa for Amazon price history, and Informed.co, Seller Snap and Flashpricer to react on Amazon.
 
 ## Head-to-heads
 - [Jungle Scout vs Helium 10](https://aisellerindex.com/compare/jungle-scout-vs-helium-10/)
