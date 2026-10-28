@@ -177,6 +177,9 @@
 - [Octane AI](https://aisellerindex.com/tools/octane-ai/): AI product quizzes and shopper data for Shopify. Limitation: Shopify-only; credit limits per plan, with overage billed at $0.10 per credit. Pricing: Basic $50/mo ($43/mo yearly), Plus $200/mo ($170/mo yearly), Enterprise $500+/mo; 14-day free trial
 - [Prisync](https://aisellerindex.com/tools/prisync/): Competitor price tracking and dynamic pricing for online stores, including Shopify, Google Shopping and marketplaces. Limitation: Priced by product count; dynamic pricing starts on the $199/mo Premium plan; API costs 20% extra. Pricing: URL-based plans: Professional $99/mo (100 products), Premium $199/mo (1,000), Platinum $399/mo (5,000); 14-day free trial, no card
 - [Seller Investigators](https://aisellerindex.com/tools/seller-investigators/): Done-for-you FBA reimbursement audits and case filing. Limitation: Commission-based; a service, not software you run. Pricing: Free audit; 25% commission on money recovered
+- [TrueOps](https://aisellerindex.com/tools/trueops/): Low-commission FBA and vendor reimbursement recovery. Limitation: Card required before filing; small platform minimum in low-recovery months. Pricing: Free scan; 10% commission on reimbursements won (platform minimum from $9.99 in low-recovery months)
+- [Refunzo](https://aisellerindex.com/tools/refunzo/): Free FBA reconciliation report, with optional done-for-you claim filing. Limitation: Managed filing costs 15%; free plan means you file cases yourself. Pricing: Free DIY reconciliation; managed filing 15% capped at $5,000 per account
+- [Refunds Manager](https://aisellerindex.com/tools/refunds-manager/): Done-for-you FBA reimbursement claims, plus separate Vendor Central audits. Limitation: Rate is not listed on its seller page; agreed before work begins. Pricing: Free account review; success-based fee (rate agreed before work begins)
 
 ## Reviews & Feedback
 - [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: No longer sold on its own: feedbackwhiz.com now sends you to Threecolts Seller 365, a bigger bundle. Pricing: Now part of Threecolts Seller 365: Standard $69/mo ($65/mo yearly), 14-day free trial
@@ -227,6 +230,7 @@
 - [Best Amazon keyword research tools (2026 prices)](https://aisellerindex.com/guides/best-amazon-keyword-research-tools/): Amazon keyword research tools compared with vendor prices: Keyword Tool Dominator, MerchantWords, SellerSprite, Datadive, AMZScout, SmartScout and Helium 10.
 - [Best competitor price tracking tools for Amazon and Shopify (2026 prices)](https://aisellerindex.com/guides/competitor-price-tracking-tools/): Competitor price tracking tools compared with vendor prices: Prisync for Shopify and web stores, Keepa for Amazon price history, and Informed.co, Seller Snap and Flashpricer to react on Amazon.
 - [Best Amazon PPC dayparting tools (2026 prices)](https://aisellerindex.com/guides/amazon-ppc-dayparting-tools/): Amazon Ads dayparting tools compared with vendor prices: Off Hours at a flat $149/mo, Scale Insights from $78/mo, AdLabs Pro, atom11 and Adbrew.
+- [Best Amazon FBA reimbursement services (fees compared, 2026)](https://aisellerindex.com/guides/best-amazon-fba-reimbursement-services/): Amazon FBA reimbursement services compared by fee: TrueOps 10%, Refunzo 15% capped at $5,000, Getida and Seller Investigators 25%, or find claims yourself with sellerboard.
 
 ## Head-to-heads
 - [Jungle Scout vs Helium 10](https://aisellerindex.com/compare/jungle-scout-vs-helium-10/)
