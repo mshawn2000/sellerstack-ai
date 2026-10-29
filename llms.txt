@@ -180,6 +180,9 @@
 - [TrueOps](https://aisellerindex.com/tools/trueops/): Low-commission FBA and vendor reimbursement recovery. Limitation: Card required before filing; small platform minimum in low-recovery months. Pricing: Free scan; 10% commission on reimbursements won (platform minimum from $9.99 in low-recovery months)
 - [Refunzo](https://aisellerindex.com/tools/refunzo/): Free FBA reconciliation report, with optional done-for-you claim filing. Limitation: Managed filing costs 15%; free plan means you file cases yourself. Pricing: Free DIY reconciliation; managed filing 15% capped at $5,000 per account
 - [Refunds Manager](https://aisellerindex.com/tools/refunds-manager/): Done-for-you FBA reimbursement claims, plus separate Vendor Central audits. Limitation: Rate is not listed on its seller page; agreed before work begins. Pricing: Free account review; success-based fee (rate agreed before work begins)
+- [Omnisend](https://aisellerindex.com/tools/omnisend/): Email, SMS and web push automations for online stores, with AI product picks. Limitation: Paid price grows with contacts; SMS is billed per message on top. Pricing: Free plan ($0/mo); Standard shown at $11.20/mo with a 30% intro discount; SMS from $0.007 each
+- [Postscript](https://aisellerindex.com/tools/postscript/): SMS and RCS marketing built for Shopify brands. Limitation: SMS only (no email); per-message and carrier fees on every plan. Pricing: Starter $0/mo ($49 monthly minimum spend, $0.009/SMS); Growth $100/mo; Professional $500/mo; plus carrier fees
+- [Privy](https://aisellerindex.com/tools/privy/): Pop-ups, email and SMS to grow a store list and recover carts. Limitation: Price is based on mailable contacts. Pricing: From $30/mo (includes 250 SMS credits); 15-day free trial, no card
 
 ## Reviews & Feedback
 - [FeedbackWhiz](https://aisellerindex.com/tools/feedbackwhiz/): Amazon review requests, monitoring, profit. Limitation: No longer sold on its own: feedbackwhiz.com now sends you to Threecolts Seller 365, a bigger bundle. Pricing: Now part of Threecolts Seller 365: Standard $69/mo ($65/mo yearly), 14-day free trial
@@ -231,6 +234,7 @@
 - [Best competitor price tracking tools for Amazon and Shopify (2026 prices)](https://aisellerindex.com/guides/competitor-price-tracking-tools/): Competitor price tracking tools compared with vendor prices: Prisync for Shopify and web stores, Keepa for Amazon price history, and Informed.co, Seller Snap and Flashpricer to react on Amazon.
 - [Best Amazon PPC dayparting tools (2026 prices)](https://aisellerindex.com/guides/amazon-ppc-dayparting-tools/): Amazon Ads dayparting tools compared with vendor prices: Off Hours at a flat $149/mo, Scale Insights from $78/mo, AdLabs Pro, atom11 and Adbrew.
 - [Best Amazon FBA reimbursement services (fees compared, 2026)](https://aisellerindex.com/guides/best-amazon-fba-reimbursement-services/): Amazon FBA reimbursement services compared by fee: TrueOps 10%, Refunzo 15% capped at $5,000, Getida and Seller Investigators 25%, or find claims yourself with sellerboard.
+- [Best Shopify email and SMS marketing apps (prices compared, 2026)](https://aisellerindex.com/guides/best-shopify-email-sms-marketing-apps/): Shopify email and SMS marketing apps compared by price: Klaviyo and Omnisend have free plans, Privy starts at $30/mo, and Postscript does SMS from $0/mo with a $49 minimum.
 
 ## Head-to-heads
 - [Jungle Scout vs Helium 10](https://aisellerindex.com/compare/jungle-scout-vs-helium-10/)
